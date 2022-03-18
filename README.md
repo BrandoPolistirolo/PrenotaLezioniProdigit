@@ -8,6 +8,8 @@ per funzionare deve avere un file denominato Dati.txt, con la seguente struttura
 - password:********
 - CodiceEdificio:NomeAula:Giorno:OraInizio:OraFine
 
+Le ore inferiori alle 10 devono essere nel formato 08,09,07...
+
 vedere file Dati.txt come esempio.
 Il file Dati.txt deve stare nella stessa cartella dello script python.
 
